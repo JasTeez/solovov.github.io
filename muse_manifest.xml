@@ -1,0 +1,76 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ZAOTALOVSKOE.com" resolutions="1x" timestamp="1486730631348">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_______-a.css" crc="463526992" ref="реквизиты:контакты:index:о-нас"/>
+    <file name="_________.css" crc="103840587" ref="реквизиты"/>
+    <file name="________.css" crc="7646539" ref="контакты"/>
+    <file name="index.css" crc="4168934327" ref="index"/>
+    <file name="_-___.css" crc="3824047980" ref="о-нас"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="museutils.js" crc="3851988764" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="whatinput.js" crc="86476730" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="museconfig.js" crc="169177150" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="pie.js" crc="3831537696" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="require.js" crc="4108833657" ref="index:о-нас:реквизиты:контакты"/>
+  </folder>
+  <folder name="images">
+    <file name="u133-4.png" crc="3956245296" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="u130-4.png" crc="4148023721" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="blank.gif" crc="4208392903" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="u104_states.png" crc="3794686764" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="u104_states-r.png" crc="99082286" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="u104_states-m.png" crc="270975290" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="u104_states-a.png" crc="270975290" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="u108_states.png" crc="3990302957" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="u108_states-r.png" crc="423949049" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="u108_states-m.png" crc="3875804920" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="u108_states-a.png" crc="3875804920" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="u114_states.png" crc="3815633527" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="u114_states-r.png" crc="68392157" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="u114_states-m.png" crc="219500827" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="u114_states-a.png" crc="219500827" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="u136_states.png" crc="4066439039" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="u136_states-r.png" crc="426283184" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="u136_states-m.png" crc="127048465" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="u136_states-a.png" crc="127048465" ref="index:о-нас:реквизиты:контакты"/>
+    <file name="u686-4.png" crc="218508070" ref="index"/>
+    <file name="u687-13.png" crc="3897546494" ref="index"/>
+    <file name="71vj6jwairi.jpg" crc="3927284186" seo="true" ref="index"/>
+    <file name="alkpkhpzhco.jpg" crc="4162131513" seo="true" ref="index"/>
+    <file name="cqff31r4eze.jpg" crc="3846482469" seo="true" ref="index"/>
+    <file name="dxta0u-gccs.jpg" crc="4229223428" seo="true" ref="index"/>
+    <file name="hd-wcyaa2j0.jpg" crc="3984075819" seo="true" ref="index"/>
+    <file name="hepetzqgq1i.jpg" crc="155285919" seo="true" ref="index"/>
+    <file name="mjk_chcca60.jpg" crc="3953983943" seo="true" ref="index"/>
+    <file name="oioqnk2e0qg.jpg" crc="4072060563" seo="true" ref="index"/>
+    <file name="wim7vx2_58y.jpg" crc="263744145" seo="true" ref="index"/>
+    <file name="y1u-hafbsyk.jpg" crc="270963948" seo="true" ref="index"/>
+    <file name="0rhxtqefwhg.jpg" crc="308797382" seo="true" ref="index"/>
+    <file name="eibteym2xse.jpg" crc="3992771502" seo="true" ref="index"/>
+    <file name="ul6h2ub8okc.jpg" crc="484708399" seo="true" ref="index"/>
+    <file name="vc7k5enhkvq.jpg" crc="3807913565" seo="true" ref="index"/>
+    <file name="zqn5e8a2ywi.jpg" crc="3998089030" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u698-11.png" crc="473752923" ref="index"/>
+    <file name="u701-29.png" crc="355377562" ref="о-нас"/>
+    <file name="1.jpg" crc="311237008" seo="true" ref="о-нас"/>
+    <file name="u715-4.png" crc="166949794" ref="о-нас"/>
+    <file name="u730-4.png" crc="3843037426" ref="о-нас"/>
+    <file name="u736-4.png" crc="153336862" ref="о-нас"/>
+    <file name="u742-79.png" crc="180683718" ref="реквизиты"/>
+    <file name="u745-67.png" crc="77186043" ref="реквизиты"/>
+    <file name="u753-4.png" crc="98935632" ref="контакты"/>
+    <file name="u762-14.png" crc="3780713968" ref="контакты"/>
+  </folder>
+  <file name="index.html" crc="334412151" seo="true" mt="1486729622867" redirect="true"/>
+  <file name="о-нас.html" crc="4292651074" seo="true" mt="1486729498585" redirect="true"/>
+  <file name="реквизиты.html" crc="3817565453" seo="true" mt="1486729909090" redirect="true"/>
+  <file name="контакты.html" crc="4174178059" seo="true" mt="1486730138569" redirect="true"/>
+</manifest>
